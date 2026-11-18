@@ -494,7 +494,7 @@ const STORIES: Story[] = [
     color: [169, 50, 38],
     title: 'GULF ON EDGE',
     icon: iconRadar,
-    caption: 'Iran drones target US radar in Bahrain. US jets hit Qeshm site.',
+    caption: 'Iran drones target US radar in Bahrain. LPG tanker Tara Gas hit in Hormuz; 21 crew rescued.',
   },
   {
     color: [31, 78, 121],
@@ -506,7 +506,7 @@ const STORIES: Story[] = [
     color: [55, 71, 79],
     title: 'CRIMEA BRIDGE',
     icon: iconBridge,
-    caption: 'Ukraine hits Crimean bridge a second day. Russia hits Kyiv.',
+    caption: 'Ukraine hits Crimean bridge a second day. Road span falls into the strait.',
   },
   {
     color: [121, 85, 72],
